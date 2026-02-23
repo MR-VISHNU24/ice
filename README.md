@@ -38,7 +38,7 @@ Users can review their order before placing it.
 ## How to Run the Project
 Clone the repository:
 
-git clone https://github.com/your-username/repository-name.git
+git clone [https://github.com/your-username/repository-name.git](https://github.com/icecreamshop/Portfolio-.git)
 
 Open the project folder.
 
